@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Coneria';
+    src: url('./Demo_ConeriaScript.ttf')
+    format('truetype');
+  }
+
+@font-face {
+  font-family: 'Coneria-Slanted';
+  src: url('./Demo_ConeriaScript_Slanted.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'FreeBSC';
+  src: url('./FREEBSC_.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'Exmouth';
+  src: url('./exmouth_.ttf')
+  format('truetype');
+}
+@font-face {
+  font-family: 'LovelyHome';
+  src: url('./LovelyHome-9aBZ.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url('./Quicksand-VariableFont_wght.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'Windsong';
+  src: url('./WindSong-Regular.ttf')
+  format('truetype');
+}
+
+
