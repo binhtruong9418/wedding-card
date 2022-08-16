@@ -13,6 +13,8 @@ const WrappedStyled = styled.div`
 `;
 
 export default function Sidebar() {
+
+ 
   return (
     <WrappedStyled>
       <div className="d-flex justify-content-between align-items-center px-2 py-2 border-bottom ">
